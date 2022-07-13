@@ -1,0 +1,1045 @@
+1657379759644	geckodriver	INFO	Listening on 127.0.0.1:35737
+1657379759650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezNgOL9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657379760787	Marionette	INFO	Marionette enabled
+1657379760793	Marionette	INFO	Listening on port 37105
+WebDriver BiDi listening on ws://localhost:46963
+Read port: 37105
+1657379762203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezNgOL9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46963/devtools/browser/6ab5998a-1ffc-4f0d-898d-fad3d14eb5ee
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657379766868	Marionette	INFO	Stopped listening on port 37105
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+!!! error running onStopped callback: TypeError: callback is not a function
+1657379774159	geckodriver	INFO	Listening on 127.0.0.1:56427
+1657379774670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37999" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefrO64J"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657379775860	Marionette	INFO	Marionette enabled
+1657379775865	Marionette	INFO	Listening on port 44251
+Read port: 44251
+WebDriver BiDi listening on ws://localhost:37999
+1657380630615	geckodriver	INFO	Listening on 127.0.0.1:40223
+1657380631127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileESBIgq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657380632198	Marionette	INFO	Marionette enabled
+1657380632203	Marionette	INFO	Listening on port 42777
+WebDriver BiDi listening on ws://localhost:33485
+Read port: 42777
+1657380632709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileESBIgq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33485/devtools/browser/edb5b7c0-507d-4bd0-a705-c6fc1517ed7c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657380637254	Marionette	INFO	Stopped listening on port 42777
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657380638389	geckodriver	INFO	Listening on 127.0.0.1:52357
+1657380638899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLgsFTA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657380639961	Marionette	INFO	Marionette enabled
+1657380639966	Marionette	INFO	Listening on port 36493
+WebDriver BiDi listening on ws://localhost:40475
+Read port: 36493
+1657380640381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLgsFTA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40475/devtools/browser/7807ac8a-cd35-4be4-8166-f3f8c73434e8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657380649962	Marionette	INFO	Stopped listening on port 36493
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1657381443770	geckodriver	INFO	Listening on 127.0.0.1:52103
+1657381444286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWKHbEp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657381445410	Marionette	INFO	Marionette enabled
+1657381445415	Marionette	INFO	Listening on port 39827
+WebDriver BiDi listening on ws://localhost:35171
+Read port: 39827
+1657381445834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWKHbEp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35171/devtools/browser/f922ed53-448e-4551-a59c-bc69f280cdc9
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657381450633	Marionette	INFO	Stopped listening on port 39827
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657381451647	geckodriver	INFO	Listening on 127.0.0.1:60123
+1657381452157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileszEqk1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657381453238	Marionette	INFO	Marionette enabled
+1657381453243	Marionette	INFO	Listening on port 40209
+WebDriver BiDi listening on ws://localhost:33243
+Read port: 40209
+1657381453753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileszEqk1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33243/devtools/browser/cb4fcf11-4687-469a-96b4-59517728f211
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657381463491	Marionette	INFO	Stopped listening on port 40209
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1657388291242	geckodriver	INFO	Listening on 127.0.0.1:42555
+1657388291659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegnHt3a"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657388293515	Marionette	INFO	Marionette enabled
+1657388293546	Marionette	INFO	Listening on port 41553
+WebDriver BiDi listening on ws://localhost:35973
+Read port: 41553
+1657388294170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegnHt3a/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35973/devtools/browser/3016f75f-ed5b-4683-be82-5fed23e30588
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657388303263	Marionette	INFO	Stopped listening on port 41553
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657388304363	geckodriver	INFO	Listening on 127.0.0.1:46685
+1657388304874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46043" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileinwFUq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657388305975	Marionette	INFO	Marionette enabled
+1657388305980	Marionette	INFO	Listening on port 45473
+WebDriver BiDi listening on ws://localhost:46043
+Read port: 45473
+1657388306440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileinwFUq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46043/devtools/browser/57480ca5-064d-4e60-873f-8460f157e797
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657388311287	Marionette	INFO	Stopped listening on port 45473
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657388958465	geckodriver	INFO	Listening on 127.0.0.1:41245
+1657388958476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehfiT38"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657388959625	Marionette	INFO	Marionette enabled
+1657388959632	Marionette	INFO	Listening on port 38633
+WebDriver BiDi listening on ws://localhost:44077
+Read port: 38633
+1657388960042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehfiT38/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44077/devtools/browser/b90bea85-b214-422a-b2a6-c02879d7f21d
+1657388962977	Marionette	INFO	Stopped listening on port 38633
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+1657389376192	geckodriver	INFO	Listening on 127.0.0.1:43467
+1657389376705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileE1e2fN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657389377809	Marionette	INFO	Marionette enabled
+1657389377814	Marionette	INFO	Listening on port 37663
+WebDriver BiDi listening on ws://localhost:50463
+Read port: 37663
+1657389378284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE1e2fN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50463/devtools/browser/6637c153-e0a5-48a7-a12b-f7ce028d34ea
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657389383511	Marionette	INFO	Stopped listening on port 37663
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657389384493	geckodriver	INFO	Listening on 127.0.0.1:46755
+1657389385008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAbAUNp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657389386071	Marionette	INFO	Marionette enabled
+1657389386075	Marionette	INFO	Listening on port 33615
+WebDriver BiDi listening on ws://localhost:37405
+Read port: 33615
+1657389386475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAbAUNp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37405/devtools/browser/47349f83-0b3e-4ceb-b1b4-c9a2a9270f28
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657389391057	Marionette	INFO	Stopped listening on port 33615
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657389866264	geckodriver	INFO	Listening on 127.0.0.1:36915
+1657389866776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile70RoXL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657389867982	Marionette	INFO	Marionette enabled
+1657389867988	Marionette	INFO	Listening on port 42185
+WebDriver BiDi listening on ws://localhost:41851
+Read port: 42185
+1657389868403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile70RoXL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41851/devtools/browser/d4a7a088-fb1f-4032-8f75-5b8aaeb419fa
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657389872961	Marionette	INFO	Stopped listening on port 42185
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657389874001	geckodriver	INFO	Listening on 127.0.0.1:33567
+1657389874514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileusOAur"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657389875560	Marionette	INFO	Marionette enabled
+1657389875565	Marionette	INFO	Listening on port 37545
+WebDriver BiDi listening on ws://localhost:42619
+Read port: 37545
+1657389875996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileusOAur/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42619/devtools/browser/eb1713db-b1da-4653-a8f1-33e8f0d3234f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657389880601	Marionette	INFO	Stopped listening on port 37545
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657390075057	geckodriver	INFO	Listening on 127.0.0.1:48729
+1657390075574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRklibS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657390076693	Marionette	INFO	Marionette enabled
+1657390076698	Marionette	INFO	Listening on port 45887
+WebDriver BiDi listening on ws://localhost:44299
+Read port: 45887
+1657390080048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRklibS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44299/devtools/browser/ff463645-1c14-482e-983a-a4c0d66bc23b
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657390084772	Marionette	INFO	Stopped listening on port 45887
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657390085598	geckodriver	INFO	Listening on 127.0.0.1:50759
+1657390086107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55539" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepboutc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657390087344	Marionette	INFO	Marionette enabled
+1657390087353	Marionette	INFO	Listening on port 46089
+WebDriver BiDi listening on ws://localhost:55539
+Read port: 46089
+1657390088185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepboutc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55539/devtools/browser/22cd6171-75c0-4285-b313-1171ed4f0254
+1657390090905	Marionette	INFO	Stopped listening on port 46089
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 672: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.asyncExecuteLegacyQuery]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 186: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 906: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+RunWatchdog: Mainthread nested event loops during hang: 
+ --- (no nested event loop active)
+ExceptionHandler::GenerateDump cloned child 10763ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1657390394185	geckodriver	INFO	Listening on 127.0.0.1:57077
+1657390394704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerI7aNb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657390396117	Marionette	INFO	Marionette enabled
+1657390396124	Marionette	INFO	Listening on port 34327
+WebDriver BiDi listening on ws://localhost:40419
+Read port: 34327
+1657390396574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerI7aNb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40419/devtools/browser/a04e7aae-0459-477d-820e-6cb43b5c2a26
+1657390407070	Marionette	INFO	Stopped listening on port 34327
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657390408582	geckodriver	INFO	Listening on 127.0.0.1:47455
+1657390409103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1vko5D"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657390410555	Marionette	INFO	Marionette enabled
+1657390410562	Marionette	INFO	Listening on port 36781
+WebDriver BiDi listening on ws://localhost:34651
+Read port: 36781
+1657390411021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1vko5D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34651/devtools/browser/23a0f9b1-5ff7-4ecb-88c4-a576a717a155
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657390417504	Marionette	INFO	Stopped listening on port 36781
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657390418701	geckodriver	INFO	Listening on 127.0.0.1:49863
+1657390419212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebeFpkQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657390420638	Marionette	INFO	Marionette enabled
+1657390420648	Marionette	INFO	Listening on port 39745
+WebDriver BiDi listening on ws://localhost:51965
+Read port: 39745
+1657390421049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebeFpkQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51965/devtools/browser/f8ebae76-856d-4cd5-8620-ed3462b02245
+1657390428811	Marionette	INFO	Stopped listening on port 39745
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657390476671	geckodriver	INFO	Listening on 127.0.0.1:59507
+1657390477189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUxmyx8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657390478623	Marionette	INFO	Marionette enabled
+1657390478629	Marionette	INFO	Listening on port 43231
+WebDriver BiDi listening on ws://localhost:52525
+Read port: 43231
+1657390479073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUxmyx8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52525/devtools/browser/fce669a3-5e43-4a71-9018-c82b553985ec
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657390484571	Marionette	INFO	Stopped listening on port 43231
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657390485907	geckodriver	INFO	Listening on 127.0.0.1:55277
+1657390486419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6tAzDX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657390487898	Marionette	INFO	Marionette enabled
+1657390487904	Marionette	INFO	Listening on port 44577
+WebDriver BiDi listening on ws://localhost:50765
+Read port: 44577
+1657390488366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6tAzDX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50765/devtools/browser/ec75eb6b-5323-428a-8462-8b9a120fad60
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657390493724	Marionette	INFO	Stopped listening on port 44577
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657390594953	geckodriver	INFO	Listening on 127.0.0.1:46313
+1657390595465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesjbgG7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657390596588	Marionette	INFO	Marionette enabled
+1657390596593	Marionette	INFO	Listening on port 43565
+WebDriver BiDi listening on ws://localhost:42475
+Read port: 43565
+1657390596960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesjbgG7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42475/devtools/browser/630ff35a-205d-4115-8963-cfd241f65179
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657390601307	Marionette	INFO	Stopped listening on port 43565
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657390602413	geckodriver	INFO	Listening on 127.0.0.1:38939
+1657390602925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSpFlRI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657390603986	Marionette	INFO	Marionette enabled
+1657390603991	Marionette	INFO	Listening on port 33623
+WebDriver BiDi listening on ws://localhost:35895
+Read port: 33623
+1657390604442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSpFlRI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35895/devtools/browser/ba13aba7-cbda-47dc-9960-c18b14e6415d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657390608707	Marionette	INFO	Stopped listening on port 33623
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657390613774	geckodriver	INFO	Listening on 127.0.0.1:35731
+1657390614287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTjZWXp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657390615355	Marionette	INFO	Marionette enabled
+1657390615360	Marionette	INFO	Listening on port 36027
+WebDriver BiDi listening on ws://localhost:32871
+Read port: 36027
+1657390615813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTjZWXp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32871/devtools/browser/52d95318-e23f-44f6-b92f-b78e69aed642
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657390618688	Marionette	INFO	Stopped listening on port 36027
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657390619185	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+console.log: "RemoteSettingsWorker error: Error: IndexedDB: Error accessing remote-settings IDB at version 3"
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+[2022-07-09T18:17:00Z ERROR glean] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+1657390723159	geckodriver	INFO	Listening on 127.0.0.1:37407
+1657390723671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52729" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevYh3X5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657390724799	Marionette	INFO	Marionette enabled
+1657390724804	Marionette	INFO	Listening on port 44675
+WebDriver BiDi listening on ws://localhost:52729
+Read port: 44675
+1657390725198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevYh3X5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52729/devtools/browser/880f8b1d-45ce-4348-b6ad-d0847647c04f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657390729594	Marionette	INFO	Stopped listening on port 44675
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657390730453	geckodriver	INFO	Listening on 127.0.0.1:59399
+1657390730457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAB64Aj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657390731515	Marionette	INFO	Marionette enabled
+1657390731521	Marionette	INFO	Listening on port 39761
+WebDriver BiDi listening on ws://localhost:47297
+Read port: 39761
+1657390731912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAB64Aj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47297/devtools/browser/9dd7bbd9-e2b8-4046-a069-dd6cec180620
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657390736439	Marionette	INFO	Stopped listening on port 39761
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657390902117	geckodriver	INFO	Listening on 127.0.0.1:42317
+1657390902630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileu17pb2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657390903700	Marionette	INFO	Marionette enabled
+1657390903705	Marionette	INFO	Listening on port 39641
+WebDriver BiDi listening on ws://localhost:40041
+Read port: 39641
+1657390904104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileu17pb2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40041/devtools/browser/8a911a53-12cb-4214-b14d-5a761abe8231
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657390908498	Marionette	INFO	Stopped listening on port 39641
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1657390909490	geckodriver	INFO	Listening on 127.0.0.1:36217
+1657390910001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewrva3y"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657390911077	Marionette	INFO	Marionette enabled
+1657390911082	Marionette	INFO	Listening on port 38729
+WebDriver BiDi listening on ws://localhost:45899
+Read port: 38729
+1657390911519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewrva3y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45899/devtools/browser/abae77d4-d8ec-44af-8168-78c24eb3dc6f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657390915848	Marionette	INFO	Stopped listening on port 38729
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657419867454	geckodriver	INFO	Listening on 127.0.0.1:48467
+1657419867830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGmKyBX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657419869333	Marionette	INFO	Marionette enabled
+1657419869339	Marionette	INFO	Listening on port 37127
+WebDriver BiDi listening on ws://localhost:51891
+Read port: 37127
+1657419869845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGmKyBX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51891/devtools/browser/16604394-ec66-44a8-bd25-a0134714afee
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657419878679	Marionette	INFO	Stopped listening on port 37127
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657419879547	geckodriver	INFO	Listening on 127.0.0.1:38201
+1657419880062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileO1Ccff"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657419881114	Marionette	INFO	Marionette enabled
+1657419881119	Marionette	INFO	Listening on port 43781
+WebDriver BiDi listening on ws://localhost:35819
+Read port: 43781
+1657419881586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO1Ccff/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35819/devtools/browser/a58aae89-3ad3-4329-8cbc-d7fd8457487e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657419886231	Marionette	INFO	Stopped listening on port 43781
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657420071890	geckodriver	INFO	Listening on 127.0.0.1:45421
+1657420072402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenFkOo8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657420074756	Marionette	INFO	Marionette enabled
+1657420074765	Marionette	INFO	Listening on port 38985
+WebDriver BiDi listening on ws://localhost:58855
+Read port: 38985
+1657420075260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenFkOo8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58855/devtools/browser/cf9c87a2-b963-4ab8-83fa-b4b815767fce
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657420083329	Marionette	INFO	Stopped listening on port 38985
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657420084977	geckodriver	INFO	Listening on 127.0.0.1:53959
+1657420085485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebIK60O"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657420087866	Marionette	INFO	Marionette enabled
+1657420087875	Marionette	INFO	Listening on port 34095
+WebDriver BiDi listening on ws://localhost:41035
+Read port: 34095
+1657420088335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebIK60O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41035/devtools/browser/e9469961-f9ca-4fb4-978a-63eb1b543d1e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657420096133	Marionette	INFO	Stopped listening on port 34095
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657426378734	geckodriver	INFO	Listening on 127.0.0.1:54745
+1657426379247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejN7yaP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657426380352	Marionette	INFO	Marionette enabled
+1657426380357	Marionette	INFO	Listening on port 45417
+WebDriver BiDi listening on ws://localhost:39631
+Read port: 45417
+1657426380780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejN7yaP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39631/devtools/browser/d422f441-3586-4044-ae61-07f71fc68c37
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657426388414	Marionette	INFO	Stopped listening on port 45417
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657426425694	geckodriver	INFO	Listening on 127.0.0.1:40465
+1657426426110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemM1bDx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657426427554	Marionette	INFO	Marionette enabled
+1657426427563	Marionette	INFO	Listening on port 40689
+WebDriver BiDi listening on ws://localhost:47777
+Read port: 40689
+1657426427987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemM1bDx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47777/devtools/browser/9e08b87b-eee8-4d16-a7a2-8ac1d6e40f02
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657426432629	Marionette	INFO	Stopped listening on port 40689
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657426445597	geckodriver	INFO	Listening on 127.0.0.1:35525
+1657426446109	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFDdKi5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657426447181	Marionette	INFO	Marionette enabled
+1657426447186	Marionette	INFO	Listening on port 33711
+WebDriver BiDi listening on ws://localhost:35041
+Read port: 33711
+1657426447585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFDdKi5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35041/devtools/browser/e6b35c93-3d93-4656-857c-c19351a285d2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657426453199	Marionette	INFO	Stopped listening on port 33711
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657426492374	geckodriver	INFO	Listening on 127.0.0.1:52957
+1657426492887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletI9h6U"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657426494029	Marionette	INFO	Marionette enabled
+1657426494034	Marionette	INFO	Listening on port 44525
+WebDriver BiDi listening on ws://localhost:51613
+Read port: 44525
+1657426494482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletI9h6U/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51613/devtools/browser/b146b19b-134e-4426-8408-11132c7ad1e1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657426499184	Marionette	INFO	Stopped listening on port 44525
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657426554962	geckodriver	INFO	Listening on 127.0.0.1:54973
+1657426555475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexJ9jEN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657426556544	Marionette	INFO	Marionette enabled
+1657426556549	Marionette	INFO	Listening on port 38189
+WebDriver BiDi listening on ws://localhost:60699
+Read port: 38189
+1657426556920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexJ9jEN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60699/devtools/browser/b7582391-74a0-4964-9c6c-ae1115e3608a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657426561681	Marionette	INFO	Stopped listening on port 38189
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657426614555	geckodriver	INFO	Listening on 127.0.0.1:43301
+1657426615071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePIyagZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657426616327	Marionette	INFO	Marionette enabled
+1657426616334	Marionette	INFO	Listening on port 38953
+WebDriver BiDi listening on ws://localhost:53777
+Read port: 38953
+1657426616695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePIyagZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53777/devtools/browser/1263f1dd-487b-4e7b-bd8b-49c34ea0f668
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657426621637	Marionette	INFO	Stopped listening on port 38953
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657426732299	geckodriver	INFO	Listening on 127.0.0.1:40593
+1657426732812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1WvyBt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657426734196	Marionette	INFO	Marionette enabled
+1657426734202	Marionette	INFO	Listening on port 38031
+WebDriver BiDi listening on ws://localhost:52165
+Read port: 38031
+1657426734568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1WvyBt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52165/devtools/browser/9190c13d-8c56-4949-94f1-fdbbca719f04
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657426739059	Marionette	INFO	Stopped listening on port 38031
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657426892385	geckodriver	INFO	Listening on 127.0.0.1:59185
+1657426892897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVRUzok"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657426894161	Marionette	INFO	Marionette enabled
+1657426894167	Marionette	INFO	Listening on port 32947
+WebDriver BiDi listening on ws://localhost:56527
+Read port: 32947
+1657426894559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVRUzok/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56527/devtools/browser/b32fd547-20c6-435b-8a90-4582e8b04b69
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657426899961	Marionette	INFO	Stopped listening on port 32947
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+!!! error running onStopped callback: TypeError: callback is not a function
+1657426991254	geckodriver	INFO	Listening on 127.0.0.1:36649
+1657426991763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZWaANf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657426992879	Marionette	INFO	Marionette enabled
+1657426992884	Marionette	INFO	Listening on port 43171
+WebDriver BiDi listening on ws://localhost:47703
+Read port: 43171
+1657426993315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZWaANf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47703/devtools/browser/71c62ef6-b2d6-41df-8950-714cc2d111cb
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657426998824	Marionette	INFO	Stopped listening on port 43171
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657427009753	geckodriver	INFO	Listening on 127.0.0.1:46447
+1657427010265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejjGtNZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657427011344	Marionette	INFO	Marionette enabled
+1657427011349	Marionette	INFO	Listening on port 45173
+WebDriver BiDi listening on ws://localhost:47105
+Read port: 45173
+1657427011745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejjGtNZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47105/devtools/browser/83b9684b-ff52-41e3-a27e-dee182280918
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657427016176	Marionette	INFO	Stopped listening on port 45173
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1657427389900	geckodriver	INFO	Listening on 127.0.0.1:55903
+1657427389907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46283" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileboM6r6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657427392492	Marionette	INFO	Marionette enabled
+1657427392501	Marionette	INFO	Listening on port 33839
+WebDriver BiDi listening on ws://localhost:46283
+Read port: 33839
+1657427393108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileboM6r6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46283/devtools/browser/cdd45b2d-1102-4b2e-9d94-70c56d3aad4a
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657427408073	Marionette	INFO	Stopped listening on port 33839
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657427545969	geckodriver	INFO	Listening on 127.0.0.1:35447
+1657427545976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileH6P3B8"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657427548638	Marionette	INFO	Marionette enabled
+1657427548650	Marionette	INFO	Listening on port 38765
+WebDriver BiDi listening on ws://localhost:47023
+Read port: 38765
+1657427549144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH6P3B8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47023/devtools/browser/0bf4518e-3b4d-4f64-8fcc-4087c30e17d6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657427558240	Marionette	INFO	Stopped listening on port 38765
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657427716847	geckodriver	INFO	Listening on 127.0.0.1:50793
+1657427716859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilea5mi0L"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657427721984	Marionette	INFO	Marionette enabled
+1657427721994	Marionette	INFO	Listening on port 37337
+WebDriver BiDi listening on ws://localhost:52057
+Read port: 37337
+1657427723089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea5mi0L/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52057/devtools/browser/4fbee77a-6739-49fe-a73f-e1ce3a947baa
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657427733651	Marionette	INFO	Stopped listening on port 37337
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1657429943224	geckodriver	INFO	Listening on 127.0.0.1:56819
+1657429943736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilez7btSh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657429945006	Marionette	INFO	Marionette enabled
+1657429945011	Marionette	INFO	Listening on port 45553
+Read port: 45553
+WebDriver BiDi listening on ws://localhost:34251
+1657429945567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez7btSh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34251/devtools/browser/2b33942b-8088-4d3d-9f23-301835bae7f1
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1657429959753	Marionette	INFO	Stopped listening on port 45553
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657429996676	geckodriver	INFO	Listening on 127.0.0.1:46899
+1657429997188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3rDf4h"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657429998319	Marionette	INFO	Marionette enabled
+1657429998325	Marionette	INFO	Listening on port 34403
+WebDriver BiDi listening on ws://localhost:37231
+Read port: 34403
+1657429998691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3rDf4h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37231/devtools/browser/449559c1-07db-4942-bc93-33a8f560f64c
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657430013387	Marionette	INFO	Stopped listening on port 34403
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657430405654	geckodriver	INFO	Listening on 127.0.0.1:43115
+1657430406162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRIrFO1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657430408628	Marionette	INFO	Marionette enabled
+1657430408639	Marionette	INFO	Listening on port 45309
+WebDriver BiDi listening on ws://localhost:49407
+Read port: 45309
+1657430409300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRIrFO1/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:49407/devtools/browser/6754d99d-4f1d-440b-8162-243bd322389a
+1657430423475	Marionette	INFO	Stopped listening on port 45309
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657430552553	geckodriver	INFO	Listening on 127.0.0.1:50973
+1657430553088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileB8OLsQ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657430555808	Marionette	INFO	Marionette enabled
+1657430555885	Marionette	INFO	Listening on port 37171
+Read port: 37171
+WebDriver BiDi listening on ws://localhost:54543
+1657430556519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB8OLsQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54543/devtools/browser/670420ca-3301-471f-b732-b807bd630244
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657430564937	Marionette	INFO	Stopped listening on port 37171
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657431047835	geckodriver	INFO	Listening on 127.0.0.1:39461
+1657431047845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7TC1Bq"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657431050214	Marionette	INFO	Marionette enabled
+1657431050221	Marionette	INFO	Listening on port 34963
+WebDriver BiDi listening on ws://localhost:35727
+Read port: 34963
+1657431050735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7TC1Bq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35727/devtools/browser/d095d696-f8ce-47a1-a3fc-b0ca6828942d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657431058557	Marionette	INFO	Stopped listening on port 34963
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657432591927	geckodriver	INFO	Listening on 127.0.0.1:58111
+1657432592438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7wzATn"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657432593525	Marionette	INFO	Marionette enabled
+1657432593530	Marionette	INFO	Listening on port 36595
+WebDriver BiDi listening on ws://localhost:49461
+Read port: 36595
+1657432593972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7wzATn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49461/devtools/browser/6aa953c0-0e64-4463-b914-a7e4f0fe4540
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1657432600078	Marionette	INFO	Stopped listening on port 36595
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657447282742	geckodriver	INFO	Listening on 127.0.0.1:54781
+1657447282847	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiUC1Ax"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657447285561	Marionette	INFO	Marionette enabled
+1657447285590	Marionette	INFO	Listening on port 43325
+WebDriver BiDi listening on ws://localhost:39353
+Read port: 43325
+1657447286204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiUC1Ax/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39353/devtools/browser/aec72c66-19f4-4afc-b282-56a720a564e5
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657447294572	Marionette	INFO	Stopped listening on port 43325
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657447614592	geckodriver	INFO	Listening on 127.0.0.1:49169
+1657447615099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletaLAta"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657447616592	Marionette	INFO	Marionette enabled
+1657447616598	Marionette	INFO	Listening on port 43781
+Read port: 43781
+WebDriver BiDi listening on ws://localhost:54053
+1657447617037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletaLAta/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54053/devtools/browser/5933e98b-553c-4345-9a54-f506762197ad
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657447622475	Marionette	INFO	Stopped listening on port 43781
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657447671311	geckodriver	INFO	Listening on 127.0.0.1:34297
+1657447671320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFqJ5Sj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657447673472	Marionette	INFO	Marionette enabled
+1657447673481	Marionette	INFO	Listening on port 37091
+WebDriver BiDi listening on ws://localhost:41929
+Read port: 37091
+1657447674008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFqJ5Sj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41929/devtools/browser/ef4fd602-c797-4e70-99d1-2cee74eed2d6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657447679121	Marionette	INFO	Stopped listening on port 37091
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657451070721	geckodriver	INFO	Listening on 127.0.0.1:41647
+1657451071232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileczA7iZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657451072696	Marionette	INFO	Marionette enabled
+1657451072703	Marionette	INFO	Listening on port 39199
+WebDriver BiDi listening on ws://localhost:52463
+Read port: 39199
+1657451073239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileczA7iZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52463/devtools/browser/88ea2d31-d633-4ced-ad51-7d5bfdd0b1e8
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657451078098	Marionette	INFO	Stopped listening on port 39199
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657451124929	geckodriver	INFO	Listening on 127.0.0.1:36811
+1657451125393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqgTsbd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657451127294	Marionette	INFO	Marionette enabled
+1657451127299	Marionette	INFO	Listening on port 46121
+WebDriver BiDi listening on ws://localhost:56115
+Read port: 46121
+1657451127848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqgTsbd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56115/devtools/browser/561fdaa3-a694-43ee-8a7a-75da87f874c4
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657451132364	Marionette	INFO	Stopped listening on port 46121
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657545609741	geckodriver	INFO	Listening on 127.0.0.1:43429
+1657545610193	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezJg7fJ"
+Gtk-Message: 18:50:10.360: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:50:10.362: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657545611389	Marionette	INFO	Marionette enabled
+1657545611395	Marionette	INFO	Listening on port 35031
+WebDriver BiDi listening on ws://localhost:45079
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 35031
+1657545611856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezJg7fJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45079/devtools/browser/72ea67e0-c828-4802-a17b-7a16b2c6ca08
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657545617047	Marionette	INFO	Stopped listening on port 35031
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1657545764410	geckodriver	INFO	Listening on 127.0.0.1:35519
+1657545766119	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiyYUTk"
+Gtk-Message: 18:52:46.304: Failed to load module "canberra-gtk-module"
+Gtk-Message: 18:52:46.306: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657545767350	Marionette	INFO	Marionette enabled
+1657545767356	Marionette	INFO	Listening on port 43779
+WebDriver BiDi listening on ws://localhost:56889
+Read port: 43779
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1657545767805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiyYUTk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56889/devtools/browser/9e812d47-f8c4-450a-b76b-13f42c45eaf5
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+1657545772946	Marionette	INFO	Stopped listening on port 43779
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://www.exam.kannuruniversity.ac.in"
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
