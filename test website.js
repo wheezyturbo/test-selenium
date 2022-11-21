@@ -24,49 +24,49 @@ connection.connect(function (error) {
         console.log('Connected To the database');
     }
 });
-regno = ['mm20ccsr03', 'mm20ccsr28', 'mm20ccsr22', 'mm20ccsr18', 'mm20ccsr16', 'mm20ccsr13'];
-aadhar = [663432470004, 480001511958, 686185381631, 578533381676, 823508626405, 783917821528];
-var name = [];
-var marks = [];
-(async function example() {
-    // let a = await readline.question("enter regno");
-    // let b = await readline.question("Enter aadhaar");
-    const screen = {
-        width: 640,
-        height: 480
-    };
-    const firefox = require('selenium-webdriver/firefox');
-    let driver = await new Builder().forBrowser('firefox').setFirefoxOptions(new firefox.Options().headless().windowSize(screen)).build();
-    for (i in regno) {
-        try {
-            await driver.get('http://www.exam.kannuruniversity.ac.in/UG/bsc4semresult2022/result19.php');
-            await driver.findElement(By.name('regno')).sendKeys(regno[i]);
-            await driver.findElement(By.name('aadhaar')).sendKeys(aadhar[i]);
-            await driver.findElement(By.name('but')).click();
-            await driver.wait(until.elementLocated(By.xpath('/html/body/div[1]/div[2]/div[6]/div/div/div[2]/span[21]')), 1000);
-            await driver.findElement(By.xpath('/html/body/div[1]/div[2]/div[6]/div/div/div[2]/span[20]')).getText().then(function (txt) {
-                name[i] = txt;
-            });
-            await driver.findElement(By.xpath('/html/body/div[1]/div[2]/div[6]/div/div/div[2]/span[225]')).getText().then(function (txt) {
-                marks[i] = txt;
-            });
-        } finally {
-            //     setTimeout(() => {
-            //   console.log("Details Scraped Bruh!");
-            //   console.log(name);
-            //   console.log(marks);
-            //   driver.close();
-            // }, "200")
-             console.log(name[i]);
-            if (marks[i] == "-") {
-                 console.log("failed\n");
-            } else {
-                 console.log(marks[i] + '\n');
-            }
-        }
-    }
-    driver.close();
-})();
+// regno = ['mm20ccsr03', 'mm20ccsr28', 'mm20ccsr22', 'mm20ccsr18', 'mm20ccsr16', 'mm20ccsr13'];
+// aadhar = [663432470004, 480001511958, 686185381631, 578533381676, 823508626405, 783917821528];
+// var name = [];
+// var marks = [];
+// (async function example() {
+//     // let a = await readline.question("enter regno");
+//     // let b = await readline.question("Enter aadhaar");
+//     const screen = {
+//         width: 640,
+//         height: 480
+//     };
+//     const firefox = require('selenium-webdriver/firefox');
+//     let driver = await new Builder().forBrowser('firefox').setFirefoxOptions(new firefox.Options().headless().windowSize(screen)).build();
+//     for (i in regno) {
+//         try {
+//             await driver.get('http://www.exam.kannuruniversity.ac.in/UG/bsc4semresult2022/result19.php');
+//             await driver.findElement(By.name('regno')).sendKeys(regno[i]);
+//             await driver.findElement(By.name('aadhaar')).sendKeys(aadhar[i]);
+//             await driver.findElement(By.name('but')).click();
+//             await driver.wait(until.elementLocated(By.xpath('/html/body/div[1]/div[2]/div[6]/div/div/div[2]/span[21]')), 1000);
+//             await driver.findElement(By.xpath('/html/body/div[1]/div[2]/div[6]/div/div/div[2]/span[20]')).getText().then(function (txt) {
+//                 name[i] = txt;
+//             });
+//             await driver.findElement(By.xpath('/html/body/div[1]/div[2]/div[6]/div/div/div[2]/span[225]')).getText().then(function (txt) {
+//                 marks[i] = txt;
+//             });
+//         } finally {
+//             //     setTimeout(() => {
+//             //   console.log("Details Scraped Bruh!");
+//             //   console.log(name);
+//             //   console.log(marks);
+//             //   driver.close();
+//             // }, "200")
+//              console.log(name[i]);
+//             if (marks[i] == "-") {
+//                  console.log("failed\n");
+//             } else {
+//                  console.log(marks[i] + '\n');
+//             }
+//         }
+//     }
+//     driver.close();
+// })();
 
 
 app.get('', function (req, res) {
